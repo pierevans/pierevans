@@ -21,18 +21,30 @@
 
 ### Dev Stack:
 ---
-## GitHub Stats
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=pierevans&show_icons=true&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api?username=pierevans&show_icons=true&theme=dracula&hide_border=true"
+    height="165"
+    alt="Pierre's GitHub statistics"
   />
 
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierevans&layout=compact&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierevans&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+    height="165"
+    alt="Pierre's most used languages"
   />
-</p>
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=pierevans&theme=dracula&hide_border=true"
+    alt="Pierre's GitHub contribution streak"
+  />
+
+</div>
 </div>
