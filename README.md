@@ -27,12 +27,12 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api?username=pierevans&show_icons=true&theme=dracula"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierevans&layout=compact&theme=dracula"
   />
 </p>
 </div>
