@@ -1,8 +1,10 @@
 # Hi👋, I am Pierre and welcome to my GitHub Profile
 **`“If you can get 1 percent better each day for one year, you'll end up thirty-seven times better by the time you're done.”`**
+
 ---
 
 ## About Me
+<div>
 <pre>
   Passionate about <b>software development<b> and <b>cloud computing<b>, 
   I’m focused on growing into a <b>Cloud Engineer<b> role by combining 
@@ -13,6 +15,10 @@
   - 👯 I’m looking to collaborate on cloud 
   - 📫 How to reach me: ...
 </pre>
+<img src=""
+
+ />  
+</div>
 
 ---
 ## Languages and Tools
@@ -80,7 +86,7 @@
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb"
     alt="Backend technologies"
   />
 </p>
@@ -93,7 +99,9 @@
     alt="Development tools"
   />
 </p>
+
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -109,6 +117,7 @@
     alt="Pierre's most used languages"
   />
 </div>
+
 <div align="center">
 
   <img
