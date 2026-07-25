@@ -9,8 +9,8 @@
   my full stack development background with hands-on experience in AWS, cloud architecture, 
   and modern <b>DevOps<b> practices.
   - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
+  - 🌱 I’m currently learning cloud computing
+  - 👯 I’m looking to collaborate on cloud 
   - 📫 How to reach me: ...
 </pre>
 
@@ -19,7 +19,80 @@
 
 ### Cloud Stack:
 
+<table align="center">
+  <tr>
+    <td><strong>Cloud</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Infrastructure as Code</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=terraform" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudformation" height="48" alt="CloudFormation" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Containers & Orchestration</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ecr" height="48" alt="Amazon ECR" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>CI/CD</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Operating System</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,bash" />
+    </td>
+  </tr>
+</table>
+
+
 ### Dev Stack:
+<h4 align="left">Frontend</h3>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=react,js,ts,redux,html,css,sass,tailwind"
+    alt="Frontend technologies"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,vite"
+    alt="Frontend frameworks and tools"
+  />
+</p>
+
+<h4 align="left">Backend</h3>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"
+    alt="Backend technologies"
+  />
+</p>
+
+<h4 align="left">Tools</h3>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux"
+    alt="Development tools"
+  />
+</p>
 ---
 ## 📊 GitHub Stats
 
