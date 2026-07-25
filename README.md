@@ -15,9 +15,7 @@
   - 👯 I’m looking to collaborate on cloud 
   - 📫 How to reach me: ...
 </pre>
-<img src=""
 
- />  
 </div>
 
 ---
@@ -104,19 +102,28 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pierevans&theme=dracula"
-    height="160"
-    alt="Pierre's GitHub statistics"
-  />
+<table align="center">
+<tr>
+<td>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pierevans&theme=dracula"
-    height="160"
-    alt="Pierre's most used languages"
-  />
-</div>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pierevans&theme=dracula"
+  height="180"
+  alt="Pierre's GitHub statistics"
+/>
+
+</td>
+<td>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pierevans&theme=dracula"
+  height="180"
+  alt="Pierre's most used languages"
+/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
