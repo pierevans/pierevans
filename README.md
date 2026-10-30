@@ -10,10 +10,9 @@
   I’m focused on growing into a <b>Cloud Engineer<b> role by combining 
   my full stack development background with hands-on experience in AWS, cloud architecture, 
   and modern <b>DevOps<b> practices.
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning cloud computing
+  - 🔭 I’m currently working on CKA certificate
+  - 🌱 I’m currently learning grafana, ArgoCD, and Ansible
   - 👯 I’m looking to collaborate on cloud 
-  - 📫 How to reach me: ...
 </pre>
 
 </div>
